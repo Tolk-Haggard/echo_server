@@ -22,3 +22,9 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# built server file
+echo_server
+
+#vim swap files
+*.swp
